@@ -1,4 +1,4 @@
-fish_config theme choose catppuccin-mocha
+fish_config theme choose Nord
 
 set -gx LOCALE_ARCHIVE /usr/lib/locale/locale-archive
 
